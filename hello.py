@@ -9,3 +9,6 @@ print(f"{name} you're {age} years old?")
 
 if age > 25:
     print("You are old")
+
+if age >= 13 and age <= 19:
+    print("You are a teenager")
